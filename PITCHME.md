@@ -1,5 +1,5 @@
 
-##**Getting to know Git and GitHub for Version Control**
+##Getting to know Git and GitHub for Version Control
 
 New England Technical Services Librarians Annual Spring Conference 2019
 College of the Holy Cross
@@ -10,5 +10,5 @@ Thea P. Atwood
 Data Services Librarian
 University of Massachusetts Amherst
 [tpatwood@umass.edu](mailto:tpatwood@umass.edu)
-[tpatwood.com](tpatwood.com) 
+[tpatwood.com](http://tpatwood.com) 
 ---
