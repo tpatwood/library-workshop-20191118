@@ -2,20 +2,17 @@
 ## Getting to know Git and GitHub for Version Control
 
 <br>New England Technical Services Librarians Annual Spring Conference 2019
-<br>College of the Holy Cross
-<br>Worchester, MA
-<br>Friday, April 5, 2019
 
-Thea P. Atwood
-<br>Data Services Librarian
-<br>University of Massachusetts Amherst
+<br>Thea P. Atwood
+<br>Data Services Librarian, University of Massachusetts Amherst
 <br>[tpatwood@umass.edu](mailto:tpatwood@umass.edu)
 <br>[tpatwood.com](http://tpatwood.com) 
 ---
+@snap[west]
 
 ### Today:
 
-@ol[]
+@ol[](false)
 - Intro to version control
 - Git & GitHub
 - Git commands & navigating in the command line
@@ -57,14 +54,12 @@ I have:
 
 <br> Demo time! We'll do some neat stuff like:
 
-@ul[]
+@ul[](false)
 - Navigate around our computer
 - Create a new directory
 - Create a git repository
-- Track files
-- Version control our files (with a handy command called _git commit_)
+- Track & version control our files
 - Check on the status of our work
-- ... and more!
 @ulend
 
 
@@ -83,6 +78,7 @@ I have:
 
 ---
 
+@snapend
 
 ### Thanks! 
 
