@@ -1,7 +1,7 @@
 
 ## Getting to know Git and GitHub for Version Control
 
-<br>NETSL 2019
+<br>_NETSL 2019_
 
 <br>Thea P. Atwood
 <br>Data Services Librarian, University of Massachusetts Amherst
@@ -26,8 +26,8 @@
 ### What I've done ahead of our workshop...
 
 I have: 
-
-@ul[]
+<br>
+@ul[](false)
 - Setup my own GitHub account (at [GitHub.com](https://github.com))
 - Downloaded, installed, and configured my Git setup. 
 - Set up a couple of default items in my Git instance, so I won't need to sign in to save and share my work with GitHub. 
@@ -40,6 +40,7 @@ I have:
 ### Intro to version control
 
 <br>Keep multiple versions of files available to look at previous edits, ideas, comments, and more. 
+<br>
 <br>Figure out which version of a digital object is the most current version
 
 @snapend
@@ -96,6 +97,7 @@ I have:
 ### Thanks! 
 
 <br> Today's materials are availabile on my GitHub page! [https://github.com/tpatwood/netsl-2019-demo](https://github.com/tpatwood/netsl-2019-demo) 
+<br>
 <br> Email me! [tpatwood@umass.edu](mailto:tpatwood@umass.edu)
 
 
