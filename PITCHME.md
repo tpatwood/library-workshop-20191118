@@ -1,12 +1,12 @@
 
 ## Getting to know Git and GitHub for Version Control
 
-<br>_NETSL 2019_
+_NETSL 2019_
 
-<br>Thea P. Atwood
+@size[0.5](<br>Thea P. Atwood
 <br>Data Services Librarian, University of Massachusetts Amherst
 <br>[tpatwood@umass.edu](mailto:tpatwood@umass.edu)
-<br>[tpatwood.com](http://tpatwood.com) 
+<br>[tpatwood.com](http://tpatwood.com))
 ---
 @snap[west]
 
