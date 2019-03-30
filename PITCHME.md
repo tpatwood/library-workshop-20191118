@@ -1,7 +1,7 @@
 
 ## Getting to know Git and GitHub for Version Control
 
-<br>New England Technical Services Librarians Annual Spring Conference 2019
+<br>NETSL 2019
 
 <br>Thea P. Atwood
 <br>Data Services Librarian, University of Massachusetts Amherst
@@ -19,8 +19,10 @@
 - Sharing your work
 @olend
 
---- 
+@snapend
 
+--- 
+@snap[west]
 ### What I've done ahead of our workshop...
 
 I have: 
@@ -31,16 +33,20 @@ I have:
 - Set up a couple of default items in my Git instance, so I won't need to sign in to save and share my work with GitHub. 
 @ulend
 
+@snapend
 ---
 
-
+@snap[west]
 ### Intro to version control
 
 <br>Keep multiple versions of files available to look at previous edits, ideas, comments, and more. 
 <br>Figure out which version of a digital object is the most current version
 
+@snapend
+
 ---
 
+@snap[west]
 ### Git & GitHub
 
 @ul[]
@@ -48,8 +54,11 @@ I have:
 - *GitHub* - a popular website for hosting and sharing Git repositories. 
 @ulend
 
+@snapend
+
 ---
 
+@snap[west]
 ### Git commands and navigating in the command line
 
 <br> Demo time! We'll do some neat stuff like:
@@ -62,9 +71,11 @@ I have:
 - Check on the status of our work
 @ulend
 
+@snapend
 
 ---
 
+@snap[west]
 ### Sharing your work 
 
 <br> Demo time! We'll do some neat stuff: 
@@ -76,9 +87,11 @@ I have:
 - Grab changes made by our collaborators and merge them into the working document on our computer
 @ulend
 
+@snapend
+
 ---
 
-@snapend
+
 
 ### Thanks! 
 
