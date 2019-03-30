@@ -95,9 +95,7 @@ I have:
 
 ### Thanks! 
 
-<br> Today's materials: 
-<br>Availabile on my GitHub page! [https://github.com/tpatwood/netsl-2019-demo](https://github.com/tpatwood/netsl-2019-demo) 
-<br>
+<br> Today's materials are availabile on my GitHub page! [https://github.com/tpatwood/netsl-2019-demo](https://github.com/tpatwood/netsl-2019-demo) 
 <br> Email me! [tpatwood@umass.edu](mailto:tpatwood@umass.edu)
 
 
