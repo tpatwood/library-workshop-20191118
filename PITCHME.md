@@ -1,6 +1,6 @@
 
 ## Getting to know Git and GitHub for Version Control
-*NETSL 2019*
+_NETSL 2019_
 
 <br>@size[0.5](Thea P. Atwood)
 <br>Data Services Librarian, University of Massachusetts Amherst
@@ -24,8 +24,7 @@
 @snap[west]
 ### What I've done ahead of our workshop...
 
-I have: 
-<br>
+
 @ul[](false)
 - Setup my own GitHub account (at [GitHub.com](https://github.com))
 - Downloaded, installed, and configured my Git setup. 
@@ -61,8 +60,8 @@ I have:
 @snap[west]
 ### Git commands and navigating in the command line
 
-<br> Demo time! We'll do some neat stuff like:
-
+Demo time! We'll do some neat stuff like:
+<br>
 @ul[](false)
 - Navigate around our computer
 - Create a new directory
@@ -78,8 +77,9 @@ I have:
 @snap[west]
 ### Sharing your work 
 
-<br> Demo time! We'll do some neat stuff: 
+Demo time! We'll do some neat stuff: 
 
+<br>
 @ul[](false)
 - Connect our local repository to our shared repository on GitHub
 - Share our work with the repository on GitHub
