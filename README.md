@@ -11,4 +11,4 @@ This repo contains three things:
 This presentation is based significantly off of the Library Carpentry, availalbe here: https://librarycarpentry.org/lc-git/ 
 
 Thanks! :-)  
-- Thea
+    Thea
