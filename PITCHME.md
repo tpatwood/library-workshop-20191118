@@ -1,3 +1,4 @@
+<!-- https://gitpitch.com/tpatwood/netsl-2019-demo -->
 
 ## Getting to know Git and GitHub for Version Control
 _NETSL 2019_
