@@ -1,7 +1,7 @@
 <!-- https://gitpitch.com/tpatwood/netsl-2019-demo -->
 
 ## Getting to know Git and GitHub for Version Control
-*NETSL 2019*
+**NETSL 2019**
 
 <br>Thea P. Atwood
 <br>Data Services Librarian 
@@ -36,7 +36,7 @@
 ---
 
 @snap[west]
-### Intro to version control
+### Defining version control
 
 <br>Keep multiple versions of files available to look at previous edits, ideas, comments, and more. 
 <br>
@@ -62,8 +62,8 @@
 
 @snap[west]
 ### Git commands and navigating in the command line
+Demo time! We'll do some neat stuff like:
 
-<br> Demo time! We'll do some neat stuff like:
 <br>
 @ul[](false)
 - Navigate around our computer
@@ -75,12 +75,23 @@
 
 @snapend
 
+--- 
+
+@snap[west]
+### Quick review!
+
+Navigating: 
+`mkdir`, `cd`, `ls`, & `touch`
+
+Git commands:
+`git init`, `git status`, `git add`, & `git commit`
+
 ---
 
 @snap[west]
 ### Sharing your work 
 
-<br>Demo time! We'll do some neat stuff: 
+Demo time! We'll do some neat stuff: 
 
 <br>
 @ul[](false)
@@ -94,6 +105,13 @@
 
 ---
 
+@snap[west]
+### Quick review!
+
+Git commands: 
+`git remote`, `git push`, `git diff`, `git add` (again), `git commit` (again), `git log`, `git pull` 
+
+---
 
 
 ### Thanks! 
