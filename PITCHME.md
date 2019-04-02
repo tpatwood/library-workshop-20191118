@@ -62,7 +62,7 @@
 
 @snap[west]
 ### Git commands and navigating in the command line
-Demo time! We'll do some neat stuff like:
+_Demo time! We'll do some neat stuff like:_
 
 <br>
 @ul[](false)
@@ -91,7 +91,7 @@ Git commands:
 @snap[west]
 ### Sharing your work 
 
-Demo time! We'll do some neat stuff: 
+_Demo time! We'll do some neat stuff:_ 
 
 <br>
 @ul[](false)
