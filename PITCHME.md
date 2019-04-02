@@ -1,16 +1,17 @@
 <!-- https://gitpitch.com/tpatwood/netsl-2019-demo -->
 
 ## Getting to know Git and GitHub for Version Control
-_NETSL 2019_
+*NETSL 2019*
 
 <br>Thea P. Atwood
-<br>Data Services Librarian, University of Massachusetts Amherst
+<br>Data Services Librarian 
+<br>University of Massachusetts Amherst
 <br>[tpatwood@umass.edu](mailto:tpatwood@umass.edu) & [tpatwood.com](http://tpatwood.com)
 ---
 @snap[west]
 
 ### Today:
-
+<br>
 @ol[](false)
 - Intro to version control
 - Git & GitHub
@@ -23,7 +24,7 @@ _NETSL 2019_
 --- 
 @snap[west]
 ### What I've done ahead of our workshop...
-
+<br>
 
 @ul[](false)
 - Setup my own GitHub account (at [GitHub.com](https://github.com))
@@ -39,7 +40,7 @@ _NETSL 2019_
 
 <br>Keep multiple versions of files available to look at previous edits, ideas, comments, and more. 
 <br>
-<br>Figure out which version of a digital object is the most current version
+<br>Figure out which version of a digital object is the most current version.
 
 @snapend
 
@@ -47,6 +48,8 @@ _NETSL 2019_
 
 @snap[west]
 ### Git & GitHub
+
+<br>
 
 @ul[]
 - *Git* - a free, open source version control system. Logs changes made to files on your machine. Files you want to track are designated in a Git Repository (or "Git repo")
@@ -60,7 +63,7 @@ _NETSL 2019_
 @snap[west]
 ### Git commands and navigating in the command line
 
-Demo time! We'll do some neat stuff like:
+<br> Demo time! We'll do some neat stuff like:
 <br>
 @ul[](false)
 - Navigate around our computer
@@ -77,7 +80,7 @@ Demo time! We'll do some neat stuff like:
 @snap[west]
 ### Sharing your work 
 
-Demo time! We'll do some neat stuff: 
+<br>Demo time! We'll do some neat stuff: 
 
 <br>
 @ul[](false)
