@@ -81,10 +81,10 @@ _Demo time! We'll do some neat stuff like:_
 ### Quick review!
 
 Navigating: 
-`mkdir`, `cd`, `ls`, & `touch`
+<br>`mkdir`, `cd`, `ls`, & `touch`
 
 Git commands:
-`git init`, `git status`, `git add`, & `git commit`
+<br>`git init`, `git status`, `git add`, & `git commit`
 
 ---
 
@@ -109,7 +109,7 @@ _Demo time! We'll do some neat stuff:_
 ### Quick review!
 
 Git commands: 
-`git remote`, `git push`, `git diff`, `git add` (again), `git commit` (again), `git log`, `git pull` 
+<br>`git remote`, `git push`, `git diff`, `git log`, `git pull`, `git add` (again), & `git commit` (again) 
 
 ---
 
