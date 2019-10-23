@@ -1,7 +1,7 @@
 <!-- https://gitpitch.com/tpatwood/netsl-2019-demo -->
 
 ## Getting to know Git and GitHub for Version Control
-**NETSL 2019**
+**Library Workshop 2019**
 
 <br>Thea P. Atwood
 <br>Data Services Librarian 
