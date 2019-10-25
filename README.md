@@ -4,7 +4,7 @@ This is the repo for a presentation/demo given as part of the UMass Amherst Libr
 
 This repo contains three things in addition to this README file: 
 
-* PITCHME.md - this is the file that will render into the presentation slides, available here: https://gitpitch.com/tpatwood/library-workshop-20191101
+* PITCHME.md - this is the file that will render into the presentation slides, available here: https://gitpitch.com/tpatwood/library-workshop-20191118
 * lessonHandout-git.doc - the handout that accompanies the presentation, handed out during the session
 * lessonNotes-git.doc - my notes for the presentation. 
 

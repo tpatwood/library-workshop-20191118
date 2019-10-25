@@ -1,4 +1,4 @@
-<!-- https://gitpitch.com/tpatwood/library-workshop-20191101 -->
+<!-- https://gitpitch.com/tpatwood/library-workshop-20191118 -->
 
 ## Getting to know Git and GitHub for Version Control
 **Library Workshop 2019**
@@ -116,7 +116,7 @@ Git commands:
 
 ### Thanks! 
 
-<br> Today's materials are availabile on my GitHub page! [https://github.com/tpatwood/library-workshop-20191191](https://github.com/tpatwood/library-workshop-20191101) 
+<br> Today's materials are availabile on my GitHub page! [https://github.com/tpatwood/library-workshop-20191118](https://github.com/tpatwood/library-workshop-20191118) 
 <br>
 <br> Email me! [tpatwood@umass.edu](mailto:tpatwood@umass.edu)
 
