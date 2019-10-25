@@ -1,4 +1,4 @@
-<!-- https://gitpitch.com/tpatwood/netsl-2019-demo -->
+<!-- https://gitpitch.com/tpatwood/library-workshop-20191101 -->
 
 ## Getting to know Git and GitHub for Version Control
 **Library Workshop 2019**
@@ -116,7 +116,7 @@ Git commands:
 
 ### Thanks! 
 
-<br> Today's materials are availabile on my GitHub page! [https://github.com/tpatwood/netsl-2019-demo](https://github.com/tpatwood/netsl-2019-demo) 
+<br> Today's materials are availabile on my GitHub page! [https://github.com/tpatwood/library-workshop-20191191](https://github.com/tpatwood/library-workshop-20191101) 
 <br>
 <br> Email me! [tpatwood@umass.edu](mailto:tpatwood@umass.edu)
 
